@@ -1,2 +1,2 @@
-title: "My_first_post"
+title: "My-first-post"
 date: 2024-12-14
